@@ -1,6 +1,7 @@
 class test{
 	public static void main(string[]args){
 		system.out.println("This isnoy first program");
+		system.out.println("new line added to the program");
 }
 }
 
